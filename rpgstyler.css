@@ -1,12 +1,12 @@
 body{
     background-color: darkblue;
 }
-.text{
+#text{
     background-color: black;
     color: white;
     padding: 10px;
 }
-.game{
+#game{
     max-width: 600px;
     max-height: 400px;
     background-color: lightgray;
@@ -14,16 +14,16 @@ body{
     margin: 0 auto;
     padding: 10px;
 }
-.controls{
+#controls{
     border: 1px black solid;
     padding: 5px;
 }
-.stats{
+#stats{
     border: 1px black solid;
     color: black;
     padding: 5px;
 }
-.monsterStats{
+#monsterStats{
     display: none;
     border: 1px black solid;
     color: white;
